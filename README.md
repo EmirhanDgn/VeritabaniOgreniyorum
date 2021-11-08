@@ -1,0 +1,2 @@
+# VeritabaniOgreniyorum
+Veritabanı Çalışması Denemem
